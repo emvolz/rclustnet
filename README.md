@@ -46,4 +46,5 @@ plot.igraph( g ,vertex.size=0, vertex.label=NA)
 ```
 
 ![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4-1.png)
+
 Note that this took less than thirty seconds to generate.
