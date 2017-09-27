@@ -1,0 +1,11 @@
+Package: rclustnet
+Type: Package
+Title: Generates random graphs with tuneable degree distribution and clustering coefficent.
+Version: 0.1
+Date: 2017-09-27
+Author: Erik Volz
+Maintainer: Erik Volz <erik.volz@gmail.com>
+Description: This implements the random graph generation algorithm from Volz, Phys. Rev. E (2004). A graph is generated with desired size, degree distribution, and clustering coefficient.
+Depends: igraph
+License: MIT
+RoxygenNote: 6.0.1
